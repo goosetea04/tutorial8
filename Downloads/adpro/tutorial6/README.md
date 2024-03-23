@@ -12,3 +12,9 @@ To create the response, the program first segregates each of these components in
 In summary, following the acquisition of the request, the program dynamically constructs an HTTP Response by amalgamating essential components into a structured string format. This response string, delineated by specific delimiters, is then transmitted back to the client via the stream, ensuring the prompt delivery of the requested HTML content.
 
 ![alt text](assets/commit2.png)
+
+## Commit 3 Reflection Notes
+
+To distinguish between different types of requests and determine the appropriate response, the program examines the URI specified in the status line's second parameter. This URI represents the specific content of the URL beyond the destination information and serves as a key identifier for request categorization. Here, only requests with a URI of '/' are considered valid, prompting the delivery of the 'hello.html' file with a success status code. Requests with any other URI are deemed invalid, triggering the return of an error not found status code  as well as retunring the 'error.html' page. By dynamically setting the filename and status line based on the URI, the program streamlines response processing, reducing redundancy in code and ensuring uniform handling regardless of the specific request type.
+
+![alt text](assets/commit3.png)
