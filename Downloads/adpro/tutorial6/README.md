@@ -18,3 +18,7 @@ In summary, following the acquisition of the request, the program dynamically co
 To distinguish between different types of requests and determine the appropriate response, the program examines the URI specified in the status line's second parameter. This URI represents the specific content of the URL beyond the destination information and serves as a key identifier for request categorization. Here, only requests with a URI of '/' are considered valid, prompting the delivery of the 'hello.html' file with a success status code. Requests with any other URI are deemed invalid, triggering the return of an error not found status code  as well as retunring the 'error.html' page. By dynamically setting the filename and status line based on the URI, the program streamlines response processing, reducing redundancy in code and ensuring uniform handling regardless of the specific request type.
 
 ![alt text](assets/commit3.png)
+
+## Commit 4 Reflection Notes
+
+What separates processes in this commit and the previous is that is the fact that we are now waiting for the response to wait sleep first. We are waiting for '/sleep' to finish first. The way that the program handles requests is that now we are waiting for an incoming stream. It then processes to the next stream. With the '/sleep' endpoint, we now wait for the program to finish processing before working on the next request. 
