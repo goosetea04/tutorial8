@@ -1,0 +1,10 @@
+C:\Users\WINDOWS10\OneDrive\Desktop\Adpro\tutorial8\subscriber\target\debug\deps\libversion_check-a32dd4d3c6af7ced.rmeta: C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\WINDOWS10\OneDrive\Desktop\Adpro\tutorial8\subscriber\target\debug\deps\libversion_check-a32dd4d3c6af7ced.rlib: C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\WINDOWS10\OneDrive\Desktop\Adpro\tutorial8\subscriber\target\debug\deps\version_check-a32dd4d3c6af7ced.d: C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs:
+C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs:
+C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs:
+C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs:

@@ -1,0 +1,11 @@
+C:\Users\WINDOWS10\OneDrive\Desktop\Adpro\tutorial8\subscriber\target\debug\deps\libsocket2-b9224bc52d0accc2.rmeta: C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs
+
+C:\Users\WINDOWS10\OneDrive\Desktop\Adpro\tutorial8\subscriber\target\debug\deps\libsocket2-b9224bc52d0accc2.rlib: C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs
+
+C:\Users\WINDOWS10\OneDrive\Desktop\Adpro\tutorial8\subscriber\target\debug\deps\socket2-b9224bc52d0accc2.d: C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs
+
+C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs:
+C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs:
+C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs:
+C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs:
+C:\Users\WINDOWS10\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs:
